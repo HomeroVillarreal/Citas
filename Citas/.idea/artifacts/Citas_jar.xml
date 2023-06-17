@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Citas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Citas_jar</output-path>
+    <root id="archive" name="Citas.jar">
+      <element id="module-output" name="Citas" />
+    </root>
+  </artifact>
+</component>
